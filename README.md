@@ -18,7 +18,6 @@ The project covers the complete machine learning workflow, including data explor
 - Key Insights
 - Technologies Used
 - How to Run the Project
-- License
 
 ## Project Overview
 
@@ -215,3 +214,21 @@ First, clone the repository:
 
 ```bash
 git clone https://github.com/kozyurt/Titanic.git
+```
+Navigate to the project directory:
+
+```bash
+cd Titanic
+```
+Install the required Python libraries:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+```
+Open the Jupyter Notebook:
+
+```bash 
+jupyter notebook titanic_end_to_end.ipynb
+```
+
+
